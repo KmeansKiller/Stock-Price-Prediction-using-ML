@@ -13,8 +13,7 @@
 
 This project implements a stock price prediction model using two different machine learning approaches: linear regression and Long-Short-Term Memory (LSTM) neural networks. The goal is to provide predictive insights into stock price movements using historical data from Yahoo Finance.
 
-Research Paper - https://1drv.ms/b/c/87e0048ba6376a7d/EUPKbpK_j6dIgtuLYuGBNnQBpwREqJubv3_DSX9T34SmkQ
-Video Demonstration - https://youtu.be/z8sXhWrwU0o
+o
 
 ## 💻 Features
 
@@ -133,21 +132,5 @@ python -m pytest tests/
 - Model performance depends on market conditions
 - Past performance does not guarantee future results
 
-## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📫 Contact
-
-<div align="center">
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/harshitt13)
-
-**Harshit Kushwaha 🧑‍💻**  
-Developer
-
-📧 find.harshitkushwaha@gmail.com
-
-</div>
-
----
